@@ -9,7 +9,7 @@ from openai import OpenAI
 
 # Initialize the AI/ML API client with your API key and base URL
 client = OpenAI(
-    api_key="9370211cb8ab4c79b59d41792c81000b",
+    api_key="my-key",
     base_url="https://api.aimlapi.com",
 )
 
